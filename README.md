@@ -7,6 +7,7 @@ This is a bot made for the popular chat application, Discord, that allows up to 
 How to run project
 --------------------  
 Add this bot to your discord server: [Invite](https://discord.com/api/oauth2/authorize?client_id=718573756586524696&permissions=11344&scope=bot)
+(Note: Needs the manage server permission as it creates a private text channel for each player)
 
 Pictures  
 --------
