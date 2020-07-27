@@ -2,7 +2,7 @@ Battleship Bot
 =========================
 Description
 -------------------
-This is a bot made for the popular chat application, Discord, that allows up to 4 players to play the classic Battleship board game. It uses reactions as inputs so no typing is needed. Uses the [discord.py](https://github.com/Rapptz/discord.py) library.   
+This is a bot made for the popular chat application, Discord, that allows up to 4 players to play the classic Battleship board game. It uses reactions as inputs so no typing is needed. Uses the [discord.py](https://github.com/Rapptz/discord.py) library and is hosted on [Heroku](https://www.heroku.com/).   
 
 How to run project
 --------------------  
